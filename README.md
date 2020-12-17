@@ -32,7 +32,7 @@ You can download setups below:
 > Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 * Once you've installed the apps and downloaded the image file we can go onto the flashing section.
 
-## Flashing image to the SD card 🖥👨‍💻
+## Flashing image to the SD card 🖥
 
 Windows:
 * Now we downloaded the tools that we need.
