@@ -44,6 +44,12 @@ Windows:
 * Click "Write" and it will flash the image automatically.
 * Win32DiskImager will verify the flash by itself. When flash is complete if a popup comes up and say you need the format the drive before using it. DO NOT CLICK FORMAT. Just click CANCEL.
 
+
+macOS:
+```
+macOS instructions coming soon...
+```
+
 ## Using EasyOctoprintSetup
 
 To use EasyOctoprintSetup, follow these steps:
