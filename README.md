@@ -20,10 +20,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a `Windows/Mac` machine. Do not use WordPad to edit on Windows.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Flashing OctoPrint to the microSD card
-
-To install EasyOctoprintSetup, follow these steps:
-
+## Downloading the tools and images
 
 Windows:
 * First download the OctoPi image from [here](https://octopi.octoprint.org/latest)
@@ -33,14 +30,20 @@ You can download setups below:
 > Download Notepad++ from [here](https://notepad-plus-plus.org/downloads/v7.9.1/) 
 
 > Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
+* Once you've installed the apps and downloaded the image file we can go onto the flashing section.
 
-```
-<install_command>
-```
-macOS:
-```
-<install_command>
-```
+## Flashing image to the SD card
+
+Windows:
+* Now we downloaded the tools that we need.
+* Connect the microSD card to your PC.
+* Open the File Explorer and format your microSD as FAT32. For more deatils [click here](dont_forget_to_add_link)
+* Open the Win32DiskImager.
+* Select the image file by clicking the folder icon next to the Device section.
+* Now we want to select the microSD Card we want to flash to.
+* Select the drive letter. (Make sure to select the TRUE drive letter.)
+* Click "Write" and it will flash the image automatically.
+* Win32DiskImager will verify the flash by itself. When flash is complete if a popup comes up and say you need the format the drive before using it. DO NOT CLICK FORMAT. Just click CANCEL.
 
 ## Using EasyOctoprintSetup
 
