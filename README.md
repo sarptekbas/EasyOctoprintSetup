@@ -14,23 +14,31 @@ Additional line of information text about what the project does. Your introducti
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
+* You have a Raspberry Pi 3B, 3B+ or 4B 1/2/4GB.
+* You have a microSD card that is 16GB or above.
 * You have installed the latest version of `Win32DiskImager and Notepad++` for Windows. And `BalenaEtcher` for Mac.
 * You have a `Windows/Mac` machine. Do not use WordPad to edit on Windows.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing EasyOctoprintSetup
+## Flashing OctoPrint to the microSD card
 
 To install EasyOctoprintSetup, follow these steps:
 
+
+Windows:
+* First download the OctoPi image from [here](https://octopi.octoprint.org/latest)
+* Then if you don't have any apps that are mentioned above you must download and install them.
+» Download Notepad++ from [here](https://notepad-plus-plus.org/downloads/v7.9.1/)
+» Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
+
+```
+<install_command>
+```
 macOS:
 ```
 <install_command>
 ```
 
-Windows:
-```
-<install_command>
-```
 ## Using EasyOctoprintSetup
 
 To use EasyOctoprintSetup, follow these steps:
