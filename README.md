@@ -14,15 +14,15 @@ Additional line of information text about what the project does. Your introducti
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `Etcher or Win32DiskImager and Notepad++`
-* You have a `Windows/Linux/Mac` machine. Do not use WordPad to edit on Windows.
+* You have installed the latest version of `Win32DiskImager and Notepad++` for Windows. And `BalenaEtcher` for Mac.
+* You have a `Windows/Mac` machine. Do not use WordPad to edit on Windows.
 * You have read `<guide/link/documentation_related_to_project>`.
 
 ## Installing EasyOctoprintSetup
 
 To install EasyOctoprintSetup, follow these steps:
 
-Linux and macOS:
+macOS:
 ```
 <install_command>
 ```
