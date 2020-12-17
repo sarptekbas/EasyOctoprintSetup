@@ -89,4 +89,4 @@ If you want to contact me you can reach me at <your_email@address.com>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [MIT License](https://en.wikipedia.org/wiki/MIT_License).
