@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/sarptekbas/EasyOctoprintSetup?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/sarptekbas?style=social)
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Project name is a `Easy OctoPrint Setup` that allows `every 3D printer user` to `install OctoPrint easily`.
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
@@ -14,8 +14,8 @@ Additional line of information text about what the project does. Your introducti
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+* You have installed the latest version of `Etcher or Win32DiskImager and Notepad++`
+* You have a `Windows/Linux/Mac` machine. Do not use WordPad to edit on Windows.
 * You have read `<guide/link/documentation_related_to_project>`.
 
 ## Installing EasyOctoprintSetup
