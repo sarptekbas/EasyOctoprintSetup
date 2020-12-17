@@ -29,8 +29,8 @@ Windows:
 * First download the OctoPi image from [here](https://octopi.octoprint.org/latest)
 * Then if you don't have any apps that are mentioned above you must download and install them.
     
-    » Download Notepad++ from [here](https://notepad-plus-plus.org/downloads/v7.9.1/)
-    » Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
+> Download Notepad++ from [here](https://notepad-plus-plus.org/downloads/v7.9.1/)
+> Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 
 ```
 <install_command>
