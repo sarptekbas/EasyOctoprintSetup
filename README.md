@@ -31,6 +31,7 @@ Windows:
 
 You can download setups below:
 > Download Notepad++ from [here](https://notepad-plus-plus.org/downloads/v7.9.1/) 
+
 > Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 
 ```
