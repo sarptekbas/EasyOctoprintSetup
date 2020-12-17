@@ -1,4 +1,4 @@
-# EasyOctoprintSetupup
+# EasyOctoprintSetup
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/sarptekbas/EasyOctoprintSetup)
 ![GitHub contributors](https://img.shields.io/github/contributors/sarptekbas/EasyOctoprintSetup)
