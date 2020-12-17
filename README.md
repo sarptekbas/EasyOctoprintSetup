@@ -32,7 +32,7 @@ You can download setups below:
 > Download Win32DiskImager from [here](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 * Once you've installed the apps and downloaded the image file we can go onto the flashing section.
 
-## Flashing image to the SD card
+## Flashing image to the SD card 🖥👨‍💻
 
 Windows:
 * Now we downloaded the tools that we need.
@@ -40,8 +40,7 @@ Windows:
 * Open the File Explorer and format your microSD as FAT32. For more deatils [click here](dont_forget_to_add_link)
 * Open the Win32DiskImager.
 * Select the image file by clicking the folder icon next to the Device section.
-* Now we want to select the microSD Card we want to flash to.
-* Select the drive letter. (Make sure to select the TRUE drive letter.)
+* Now we want to select the microSD Card we want to flash to. Select the drive letter. (Make sure to select the TRUE drive letter.)
 * Click "Write" and it will flash the image automatically.
 * Win32DiskImager will verify the flash by itself. When flash is complete if a popup comes up and say you need the format the drive before using it. DO NOT CLICK FORMAT. Just click CANCEL.
 
